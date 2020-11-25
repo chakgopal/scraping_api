@@ -1,0 +1,5 @@
+aws_dynamo:
+    access_key_id: "AKIAJXWX6X6EDY4XEAMA"
+    secret_access_key: "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"
+    region: "us-west-2"
+    endpoint: "http://localhost:8000"
